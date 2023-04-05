@@ -1,4 +1,4 @@
-package ss05_excersice_static.TestStudent;
+package ss05_excersice_static.test_student;
 
 public class Test {
     public static void main(String[] args) {

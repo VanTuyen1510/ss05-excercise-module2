@@ -1,4 +1,4 @@
-package ss05_excersice_static.TestCircle;
+package ss05_excersice_static.test_circle;
 
 public class Circle {
     private double radius;
